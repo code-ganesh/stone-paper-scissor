@@ -16,7 +16,7 @@ This is a simple Stone Paper Scissors game implemented in HTML, CSS, and JavaScr
 
 ## Author
 
-[Your Name]
+code-ganesh
 
 ## License
 
